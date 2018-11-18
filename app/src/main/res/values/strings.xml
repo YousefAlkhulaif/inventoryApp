@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">inventoryApp</string>
+    <string name="title_activity_main2">ItemActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="tab_text_4">tab 4</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_add_item">AddItemActivity</string>
+    <string name="btn_add_item">add a new item!</string>
+    <string name="txt_product_name">product name: </string>
+    <string name="txt_price">price: </string>
+    <string name="txt_quantity">quantity: </string>
+    <string name="txt_supplier_name">supplier name: </string>
+    <string name="btn_add_product">add product</string>
+    <string name="txt_supplier_phone_number">supplier phone number: </string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="btn_call_supplier">call supplier</string>
+    <string name="btn_edit">Edit</string>
+    <string name="btn_save">save</string>
+    <string name="btn_delete">delete</string>
+    <string name="btn_save_changes">save changes</string>
+    <string name="btn_sell">sale</string>
+    <string name="txt_empty_list">no products in your inventory, try adding some by pressing the add button !</string>
+    <string name="txt_sold_out">this product is sold out</string>
+</resources>
